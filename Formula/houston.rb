@@ -3,8 +3,8 @@
 class Houston < Formula
   desc "Coding agent in your terminal: bring your own model"
   homepage "https://houstoncode.ai"
-  url "https://github.com/houston-code/houston/releases/download/v0.10.0/houston-cli.cjs"
-  sha256 "2e17d6860149f852d6fe06d4b00eae2a6c5fa40b95de070e040830eada3a3006"
+  url "https://github.com/houston-code/houston/releases/download/v0.11.0/houston-cli.cjs"
+  sha256 "7e8e0da3e3c73f569d4f1d20df77dc451440ad2cc131bc3d05633312d6ce34e5"
   license "Apache-2.0"
 
   depends_on "node"
